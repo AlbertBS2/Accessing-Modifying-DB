@@ -1,4 +1,4 @@
 pymysql
 sshtunnel
 tabulate
-python3-dotenv
+python-dotenv
