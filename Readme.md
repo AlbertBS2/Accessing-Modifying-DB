@@ -14,7 +14,7 @@
 
 - The department title will be asked as an input (You can use the printed table for help). If it has child departments the children will be printed.
 
-- You can exit the program by pressing **CNTRL + C**
+- You can exit the program by pressing **CTRL + C**
 
 
 ## Running manage_discounts.py
@@ -23,4 +23,4 @@
 `python manage_discounts.py`
 
 - The product title will be asked as an input (You can use the printed table for help) and follow the console instructions
-- You can exit the program by pressing **CNTRL + C**
+- You can exit the program by pressing **CTRL + C**
