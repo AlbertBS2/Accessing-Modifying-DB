@@ -1,4 +1,4 @@
-# Instruction
+# Accessing and Modifying an e-commerce MySQL DDBB through Python
 
 ## Installing
 
