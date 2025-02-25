@@ -12,7 +12,7 @@
 - Run the department_products.py
 `python department_products.py`
 
-- The department title will be asked as an input (You can use the printed table for help). If it has child departments the children will be printed.
+- The department title will be asked as an input (you can use the printed table for help). If it has child departments the children will be printed.
 
 - You can exit the program by pressing **CTRL + C**
 
