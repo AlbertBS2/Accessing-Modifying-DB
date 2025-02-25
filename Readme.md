@@ -1,4 +1,4 @@
-# Accessing and Modifying an e-commerce MySQL DDBB through Python
+# Accessing and Modifying an e-commerce MySQL DB through Python
 
 ## Installing
 
